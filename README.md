@@ -15,6 +15,7 @@ Pontential improvements (add if you think of something more):
 <li> User access
 <li> Report offensive memes
 <li> Private memes
+<li> Push to tumblr
 </ul>
 </p>
 
