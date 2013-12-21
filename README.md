@@ -1,8 +1,8 @@
 MIMS Generator
 =============
 
-MIMS Meme Generator for the I-School.
-Public repo created to allow ISchool students to make improvements to this meme generator.
+MIMS Meme Generator for the I-School.<br>
+Public repo created to allow ISchool students to make improvements to this meme generator. Hopefully after the winter break we can upload it to the Ischool server and let it run throughout the semester.
 
 <p>
 Pontential improvements (add if you think of something more):
