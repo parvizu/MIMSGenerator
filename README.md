@@ -7,6 +7,7 @@ Public repo created to allow ISchool students to make improvements to this meme 
 <p>
 Pontential improvements (add if you think of something more):
 <ul>
+<li> Upload images by users
 <li> Tracking the traffic and shares of each meme
 <li> View most popular/newest memes created
 <li> Tagging
