@@ -67,7 +67,7 @@ $(document).ready(function()
 				data:params,
 				success:function(data){
 					console.log(data);
-					$("#endHTML").html("<p class='lead'>The short URL for this MIMS meme is: <a target='_blank' href='http://0.0.0.0:5000/meme/"+data+"'>http://0.0.0.0:5000/meme/"+data+"</a></p>");
+					$("#endHTML").html("<p class='lead'>The direct URL for this MIMS meme is: <a target='_blank' href='meme/"+data+"'>HERE</a></p>");
 				}
 			});
 		});
